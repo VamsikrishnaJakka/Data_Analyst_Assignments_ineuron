@@ -1,0 +1,22 @@
+1. How and when to use the AutoSum command in excel?
+Ans: We can use Autosum to calculate the sum of cells automatically. 
+This can be used by selecting a empty cell under the which we want to perform sum operations and select those rows and then click on the auto sum which is of like sigma symbol. 
+Excel highlight those cells. Now press enter to see the result.
+
+2. What is the shortcut key to perform AutoSum?
+Ans: Alt + =
+
+3. How do you get rid of Formula that omits adjacent cells?
+Ans: Go to File, then options , select Formulas.
+Under "Error Checking Rules", uncheck the "Formulas which omit cells in a region". Click on ok
+
+4. How do you select non-adjacent cells in Excel 2016?
+Ans: Select a cell first.And now press the conyrol button and click on any cell in the sheet. We can also select different ranges 
+
+5. What happens if you choose a column, hold down the Alt key and press the letters
+ocw in quick succession?
+Ans: It acts like a shortcut to change Column-width
+
+6. If you right-click on a row reference number and click on Insert, where will the row
+be added?
+Ans: It adds above the row selected.
