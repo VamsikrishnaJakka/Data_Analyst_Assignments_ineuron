@@ -1,0 +1,33 @@
+1. What do you mean by cells in an excel sheet?
+Ans: These are of recatangular shaped grouped as a spreadsheet which is formed by the interaction of rows and columns. These holds a particular address wherein we store the data like numbers, texts, symbols etc 
+
+2. How can you restrict someone from copying a cell from your worksheet?
+Ans: Go to the Review section and select protect sheet.
+     Give a password under "Password to unprotect sheet". By default a check box is selected called " Protect Worksheet and Contents of Locked Cells".
+     And also, a few check boxes were selected by default under the "Allow All Users of This Worksheet To". Review these and select as per your requirement.
+     Now click on ok.
+
+3. How to move or copy the worksheet into another workbook?
+Ans: Right click on the tab whwere you can find an option called Move or copy.
+     If you want to move it to new work book the select new book under "To book". You can checkbox "Make a copy" if this worksheet is moving as a copy to new work book.
+     If it needs to be copy to the new sheet then select the present book name and select an option in "Before sheet" to move before a particular dheet or can be plaed at the end. 
+     Also can create a copy. Re-enter the password and click again on ok.
+     Now if you try to edit, excel displays an error message. 
+
+4. Which key is used as a shortcut for opening a new window document?
+Ans: Ctrl + N 
+
+
+5. What are the things that we can notice after opening the Excel interface?
+Ans:  We can see the Quick Access toolbar for saving, undo, redo;
+                     Ribbon(Home tab by default)- Home,Insert, Page layout,Formulas, Data, Review, View
+                     Blank spreadsheet. 
+                     Different sheet tabs(if any)
+                     Zoomin , aoom-out
+                     Max, Min , Close
+
+
+6. When to use a relative cell reference in excel?
+Ans: When we need to perform same calculation or certain operations across the column we use cel reference.
+For example: We have row A and B of 100 rows each. Now we need to find the sum of A and B in C i.e C1=A1+B1 to C100 = A100+B100.
+             Now if we enter the cell reference in C1 and dragged it to the bottom, excel understands that we need to perform sum operation across C column and copies same SUM operation but changes the cell values accordingly.
